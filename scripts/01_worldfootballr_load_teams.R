@@ -1,3 +1,12 @@
+# ----- Descripción del Script ----
+#
+# Ejemplo de descarga de datos en crudo de los equipos
+# Fecha: 20/07/2023
+# Última vez editado por: Alejandro Navas González
+#
+
+# ------ Load packages ------
+
 library(tidyverse)
 library(worldfootballR)
 library(openxlsx)
